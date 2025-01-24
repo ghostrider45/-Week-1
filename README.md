@@ -78,7 +78,7 @@ How to Use
 Clone this repository:
 Bash
 
-git clone [https://github.com/your-username/Crop-Fertilizer-Recommendation.git](https://github.com/your-username/Crop-Fertilizer-Recommendation.git)
+git clone [https://github.com/ghostrider45/-Week-1.git]
 Install dependencies:
 Bash
 
