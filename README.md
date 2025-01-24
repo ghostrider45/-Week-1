@@ -81,7 +81,6 @@ Bash
 git clone [https://github.com/ghostrider45/-Week-1.git]
 Install dependencies:
 Bash
-
 pip install -r requirements.txt
 Run the Jupyter Notebook to explore the dataset and implement ML models.
 Acknowledgments
